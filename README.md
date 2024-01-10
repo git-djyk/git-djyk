@@ -10,6 +10,9 @@
 
 -- tested: NextJS by GitHub Actions to GitHub Pages, but it failed w/ error "process completed with exit code 1". maybe because I still don't have overall and precise knowledge about everything
 
+- Progress: NextJS + TailwindCSS run on PC NodeJS environment
+-- things to do: push to GitHub and try to deploy on Vercel, and use Vercel AI on it
+
 <!---
 git-djyk/git-djyk is a special repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
