@@ -1,5 +1,5 @@
 - Hi, I am @git-djyk
-- I am currently learning ... everything from scratch (npm and Node.js, GitHub, SourceTree, NextJS, React, React-DOM, Vercel, etc)
+- I am currently learning ... everything from scratch (npm and Node.js, GitHub, SourceTree, VSCode, NextJS, React, React-DOM, Vercel, NestJS, etc)
 - Experience: JavaScript and ECMA Script for decades
 - Progress: GitHub and SourceTree on PC are now successfully connected, ready to push/pull
 -- tested: clone from a repository, make branch, merge branches to main, commit with comment, push only to branch
@@ -11,6 +11,7 @@
 -- tested: NextJS by GitHub Actions to GitHub Pages, but it failed w/ error "process completed with exit code 1". maybe because I still don't have overall and precise knowledge about everything
 
 - Progress: NextJS + TailwindCSS run on PC NodeJS environment
+-- tested: wondering about the right directory for NestJS and NextJS installation
 -- things to do: push to GitHub and try to deploy on Vercel, and use Vercel AI on it
 
 <!---
