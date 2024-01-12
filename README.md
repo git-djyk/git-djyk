@@ -14,6 +14,10 @@
 -- tested: wondering about the right directory for NestJS and NextJS installation
 -- things to do: push to GitHub and try to deploy on Vercel, and use Vercel AI on it
 
+-- Progress: NestJS for backend api, NextJS for frontend, tested on localhost
+- issue: wondering how to run backend and frontend at the same time on localhost with different ports
+- issue: wondering how to fetch data on NextJS v14 without using getStaticProps which is already been deplicated
+
 <!---
 git-djyk/git-djyk is a special repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
